@@ -1,2 +1,2 @@
 # Bidding-program
-This program includes server and client.User can bid in this program.
+A C application which uses multi-threaded programming. There are client and server in this program.
